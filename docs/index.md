@@ -1,13 +1,14 @@
 ---
 navbar: false
 sidebar: false
+title: Pierre ENNAERT, Développeur Java | Angular | Vue | Apache Camel
 head:
  - - meta
    - name: keywords
-     content: java angular vue spring camel
+     content: java angular vue spring rest ansible camel liferay
 ---
 
-![linkedin](./assets/pitwiti_logo-small.jpg)
+[![pitwiti](./assets/pitwiti_logo-small.jpg)](http://www.pitwiti.com)
 
 # Pierre ENNAERT
 
@@ -24,10 +25,10 @@ le développement d'applications Web Full Stack (Angular | Vue | Spring Boot).
 J'ai travaillé sur des projets dans les domaines bancaires, télécom, industriels 
 et assurances (IARD, ADP, Santé).
 
-N'hésitez pas à me contacter et discuter de nouvelles opportunités.
+N'hésitez pas à me contacter et discuter de nouvelles opportunités : <span style="color:#005DA0;font-weight:bold;">@. </span>[pierre@pitwiti.com](mailto:pierre@pitwiti.com?subject=Contact%20site%20Pitwiti)
 :::
 
-| [![linkedin](./assets/linkedin_logo-small.jpg)](https://www.linkedin.com/in/ennaertpierre "linkedin") | [![malt](./assets/malt_logo-small.jpg)](https://www.malt.fr/profile/pierreennaert "malt") | <span style="color:#005DA0;font-weight:bold;">@. </span>[pierre@pitwiti.com](mailto:pierre@pitwiti.com?subject=Contact%20site%20Pitwiti) |
+| [![linkedin](./assets/linkedin_logo-small.jpg)](https://www.linkedin.com/in/ennaertpierre "linkedin") | [![malt](./assets/malt_logo-small.jpg)](https://www.malt.fr/profile/pierreennaert "malt") |
 
 ###### MIT Licensed | Copyright (c) 2021 - PITWITI
 
@@ -43,6 +44,6 @@ a {
 body {
     color: black;
     background-color: white;
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(https://source.unsplash.com/O8g76snqGx4/1600x900);
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(https://source.unsplash.com/O8g76snqGx4/1920x1080);
 }
 </style>
