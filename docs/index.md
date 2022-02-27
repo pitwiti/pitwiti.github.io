@@ -16,11 +16,10 @@ head:
 
 
 ::: tip A propos
-Je suis consultant Java depuis 15 ans. 
-Je travaille en méthodologie Agile (Scrum, Lean Kanban) depuis 8 ans.
+Je suis consultant Java depuis 16 ans. 
+Je travaille en méthodologie Agile (Scrum, Lean Kanban) depuis 9 ans.
 
-Spécialisé sur le portail Liferay, mes domaines de compétences sont 
-le développement d'applications Web Full Stack (Angular | Vue | Spring Boot).
+Mes domaines de compétences sont le développement d'applications Web Full Stack (Angular | Vue | Spring Boot).
 
 J'ai travaillé sur des projets dans les domaines bancaires, télécom, industriels 
 et assurances (IARD, ADP, Santé).
@@ -30,7 +29,7 @@ N'hésitez pas à me contacter et discuter de nouvelles opportunités : <span st
 
 | [![linkedin](./assets/linkedin_logo-small.jpg)](https://www.linkedin.com/in/ennaertpierre "linkedin") | [![malt](./assets/malt_logo-small.jpg)](https://www.malt.fr/profile/pierreennaert "malt") |
 
-###### MIT Licensed | Copyright (c) 2021 - PITWITI
+###### MIT Licensed | Copyright (c) 2022 - PITWITI
 
 <style>
 a {
