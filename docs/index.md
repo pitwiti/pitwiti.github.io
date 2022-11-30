@@ -19,7 +19,7 @@ head:
 Je suis consultant Java depuis 17 ans. 
 Je travaille en méthodologie Agile (Scrum, Lean Kanban) depuis 10 ans.
 
-Mes domaines de compétences sont le développement d'applications Web Full Stack (Angular | Vue | Spring Boot | AWS).
+Mes domaines de compétences sont le développement d'applications Web Full Stack (Java | Spring Boot | Angular | Vue.js | Node.js | TypeScript | AWS).
 
 J'ai travaillé sur des projets dans les domaines bancaires, télécoms, industriels 
 et assurances (IARD, ADP, Santé).
