@@ -1,18 +1,18 @@
 ---
 navbar: false
 sidebar: false
-title: Pierre ENNAERT, Développeur Java | Angular | Vue | AWS | Apache Camel
+title: Pierre ENNAERT, Développeur Java | Spring Boot | Angular | Vue.js | Node.js | TypeScript | AWS | TerraGrunt | Clean Architecture | Event-driven
 head:
  - - meta
    - name: keywords
-     content: java angular vue spring aws rest ansible camel
+     content: java spring boot angular vue.js node.js typeScript aws rest terraGrunt clean architecture event-driven
 ---
 
 [![pitwiti](./assets/pitwiti_logo-small.jpg)](http://www.pitwiti.com)
 
 # Pierre ENNAERT
 
-### Développeur Java | Angular | Vue | AWS | Apache Camel
+### Développeur Java | Spring Boot | Angular | Vue.js | Node.js | TypeScript | AWS
 
 
 ::: tip A propos
