@@ -43,6 +43,6 @@ a {
 body {
     color: black;
     background-color: white;
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(https://source.unsplash.com/O8g76snqGx4/1920x1080);
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("./assets/kilyan-sockalingum-Su6fxs-y4Jw-unsplash.jpg");
 }
 </style>
