@@ -29,7 +29,7 @@ N'hésitez pas à me contacter et discuter de nouvelles opportunités : <span st
 
 | [![linkedin](./assets/linkedin_logo-small.jpg)](https://www.linkedin.com/in/ennaertpierre "linkedin") | [![malt](./assets/malt_logo-small.jpg)](https://www.malt.fr/profile/pierreennaert "malt") |
 
-###### MIT Licensed | Copyright (c) 2022 - PITWITI
+###### (c) 2022 - PITWITI
 
 <style>
 a {
@@ -43,6 +43,6 @@ a {
 body {
     color: black;
     background-color: white;
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("./assets/mathias-reding-U2Ltllkpkzs-unsplash.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("./assets/mathias-reding-qkWkg5j40ak-unsplash.jpg");
 }
 </style>
